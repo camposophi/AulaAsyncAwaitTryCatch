@@ -1,8 +1,8 @@
 # AsyncAwaitTryCatch
 
-professor: Jansen K Cara 
+professor: Vitor Lima 
 Turma: DS1A 
-Aluno: Nome do aluno
+Aluno: Sophia Campos
 
 ## Objetivo
 Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
