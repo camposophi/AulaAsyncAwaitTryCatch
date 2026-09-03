@@ -12,6 +12,7 @@ Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
 - Visual Code
 - Git
 - JavaScript 
+- Prompt de Comando 
 
 
 ### A melhor turma é a DS1A
