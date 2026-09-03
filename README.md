@@ -31,4 +31,4 @@ Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
 
 ## Sobre mim
 
-Olá! Meu nome é Sophia.
+Olá! Meu nome é Sophia Campos. 
