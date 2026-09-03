@@ -17,17 +17,17 @@ Desenvolver o nosso conhecimento de Aula AsyncAwaitTryCatch
 ### A melhor turma é a DS1A
 
 ## Aula AsyncAwaitTryCatch
-01-sincono.js
-02-setTimeout.js
-03-promise.js
-04-async-await.js
-05-try-catch.js
-06-login.js
-07-buscar-aluno.js
-08-finally.js
-09-throw.js
-10-fetch-api.js
+- 01-sincono.js
+- 02-setTimeout.js
+- 03-promise.js
+- 04-async-await.js
+- 05-try-catch.js
+- 06-login.js
+- 07-buscar-aluno.js
+- 08-finally.js
+- 09-throw.js
+- 10-fetch-api.js
 
-Sobre mim
+## Sobre mim
 
 Olá! Meu nome é Sophia.
